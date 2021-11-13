@@ -1,4 +1,10 @@
 ![1](https://user-images.githubusercontent.com/81069615/141651780-effc27d2-be62-45d0-a6c8-ff336d3d2813.PNG)
+![2](https://user-images.githubusercontent.com/81069615/141651849-52b3e516-1eb0-4699-a4d2-4d9ae4dc2b6f.PNG)
+![3](https://user-images.githubusercontent.com/81069615/141651856-507c60fa-9ffe-4614-aed7-51bfb0269699.PNG)
+![4](https://user-images.githubusercontent.com/81069615/141651858-c30de271-5712-4341-8360-5fb95dd1b32f.PNG)
+![5](https://user-images.githubusercontent.com/81069615/141651859-89f392ae-798e-4cad-991f-56e816653a32.PNG)
+
+![6](https://user-images.githubusercontent.com/81069615/141651865-cbf41e13-4b15-46fc-bd68-a341f7320f06.PNG)
 
 
 # Getting Started with Create React App
